@@ -1,5 +1,5 @@
 ## SQL-Sub-Queries<br>
-- Practicing the T-SQL sub-queries and making it complex to keep challenging myself to learn new.<br>
+- Practicing the T-SQL sub-queries and making it complex to keep challenging myself to learn something new.<br>
 
 - Using SQL Server Management Studio and SQL Server for Database operations.<br>
 
